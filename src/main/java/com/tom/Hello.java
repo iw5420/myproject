@@ -5,5 +5,16 @@ public class Hello {
 //        System.out.println("Hello world");
        Person p= new Person();
        p.hello();
+       int age = 19;
+        Integer age2=19;
+       char c='我';
+       Character c2=c;
+       byte b = 120;
+       float weight=66.5f;
+       float height=1.7f;
+       boolean adoult=true;
+       boolean entroll=false;
+       String name="Tom";
+
     }
 }
